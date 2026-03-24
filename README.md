@@ -7,6 +7,11 @@ Hi 👋 I'm Nivedhitha-K
 I am a STEM-certified educator with **4 years of experience teaching Computer Science**, passionate about technology, data, and problem solving. My teaching background has strengthened my analytical thinking and ability to simplify complex technical concepts.
 
 Currently focused on **Data Science and Machine Learning**, where I enjoy transforming raw data into meaningful insights and building intelligent models to solve real-world problems.
+🎯 Aspiring Data Scientist passionate about solving real-world problems using Machine Learning.
+
+## 🚀 Projects
+- 💳 Credit Card Fraud Detection (SMOTE, Logistic Regression)
+- ⚡ Energy Consumption Prediction (Regression Models)
 
 🔧 Tech Stack  
 • Python  
@@ -15,6 +20,11 @@ Currently focused on **Data Science and Machine Learning**, where I enjoy transf
 • Scikit-learn  
 • Machine Learning  
 • Data Visualization (Matplotlib, Seaborn)  
+
+## 📈 Currently Learning
+- Advanced ML Models
+- Deep Learning
+- Real-world deployment
 
 📚 Background  
 • STEM Educator Certified  
