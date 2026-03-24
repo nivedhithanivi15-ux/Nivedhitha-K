@@ -1,8 +1,8 @@
 # My Personal Repository
 Hi 👋 I'm Nivedhitha-K
 
-## 🚀 Data Science & Machine Learning Enthusiast  
-## 📊 STEM Educator | Computer Science Teacher | Tech Mentor
+# 🚀 Data Science & Machine Learning Enthusiast  
+# 📊 STEM Educator | Computer Science Teacher | Tech Mentor
 
 I am a STEM-certified educator with **4 years of experience teaching Computer Science**, passionate about technology, data, and problem solving. My teaching background has strengthened my analytical thinking and ability to simplify complex technical concepts.
 
