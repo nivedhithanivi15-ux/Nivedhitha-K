@@ -1,44 +1,22 @@
-# My Personal Repository
-Hi 👋 I'm Nivedhitha-K
+# Nivedhitha K. — Cinematic Portfolio
 
-🚀 Data Science & Machine Learning Enthusiast  
-📊 STEM Educator | Computer Science Teacher | Tech Mentor
+A premium, cinematic one-page personal portfolio for Nivedhitha K.
 
-I am a STEM-certified educator with **4 years of experience teaching Computer Science**, passionate about technology, data, and problem solving. My teaching background has strengthened my analytical thinking and ability to simplify complex technical concepts.
+## Sections
+- Hero / personal brand
+- About
+- Selected projects
+- Expertise
+- Contact
+- Responsive mobile layout
+- Scroll reveal animation
+- Embedded personal portrait asset
 
-Currently focused on **Data Science and Machine Learning**, where I enjoy transforming raw data into meaningful insights and building intelligent models to solve real-world problems.
-🎯 Aspiring Data Scientist passionate about solving real-world problems using Machine Learning.
+## Deploy on GitHub Pages
+1. Upload `index.html` and the `assets` folder to the root of your repository.
+2. In GitHub: **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select `main` and `/ (root)`.
+5. Save.
 
-## 🚀 Projects
-- 💳 Credit Card Fraud Detection (SMOTE, Logistic Regression)
-- ⚡ Energy Consumption Prediction (Regression Models)
-
-## 🔧 Tech Stack  
-• Python  
-• SQL  
-• Pandas & NumPy  
-• Scikit-learn  
-• Machine Learning  
-• Data Visualization (Matplotlib, Seaborn)  
-
-## 📈 Currently Learning
-- Advanced ML Models
-- Deep Learning
-- Real-world deployment
-
-## 📚 Background  
-• STEM Educator Certified  
-• 4 Years Experience as Computer Science Teacher  
-• Data Science & Machine Learning Certification  
-
-## 📌 Interests  
-• Data Analysis  
-• Predictive Modeling  
-• Educational Technology  
-• Real-world Data Projects  
-
-## 📫 Connect with me  
-LinkedIn: www.linkedin.com/in/nivedhitha-krishnamoorthy-833358125  
-Email: nivedhitha.nivi15@gmail.com  
-
-⭐ Always learning | Always building | Always improving
+The portfolio is intentionally framework-free, so GitHub Pages can serve it directly.
